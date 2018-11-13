@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Hansel"
-  s.version      = "7.1.0"
+  s.version      = "7.0.2.100"
   s.platforms    = { :ios => "8.0"}
   s.summary      = "Making applications hyper agile"
   s.description  = "Hanselio framework powers developers to rapidly experiment, iterate and stabilize ios apps"
