@@ -1,0 +1,12 @@
+framework module Hansel {
+    umbrella header "Hansel-umbrella.h"
+    
+    export *
+    module * { export * }
+}
+
+
+module Hansel.Swift {
+    header "Hansel-Swift.h"
+    requires objc
+}
